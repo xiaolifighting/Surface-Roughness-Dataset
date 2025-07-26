@@ -2,12 +2,11 @@
 
 | 序号 | 粗糙度等级 | 图片编号 |
 |:----:|:--------:|:-------:|
-|  class0   |     0-0.8    |   IMG001  |
-|  2   |     B    |   IMG002  |
-|  3   |     C    |   IMG003  |
-|  4   |     A    |   IMG004  |
-|  5   |     B    |   IMG005  |
-|  6   |     C    |   IMG006  |
-|  7   |     A    |   IMG007  |
-|  8   |     B    |   IMG008  |
+|  class0   |     0-0.8    |   class0_x  |
+|  class1   |     0.8-1.6    |   class1_x  |
+|  class2   |     1.6-2.4    |   class2_x  |
+|  class3   |     2.4-3.4    |   class3_x  |
+|  class4   |     3.4-4.3    |   class4_x  |
+|  class5   |     4.3-4.9    |   class5_x  |
+|  class6   |     4.9-6.3    |   class6_x  |
 
