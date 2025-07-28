@@ -5,7 +5,7 @@
 - Establish benchmark dataset for non-contact roughness measurement
 - Enable ML model training for Ra value prediction
 - Bridge machining parameters ↔ visual characteristics ↔ roughness values
-<img width="650" height="200" alt="b5eecfd6086719f211738f4bc09fe01" src="https://github.com/user-attachments/assets/f170eaf0-ba94-4447-95d9-213ca05b7c32" />
+<img width="550" height="200" alt="b5eecfd6086719f211738f4bc09fe01" src="https://github.com/user-attachments/assets/f170eaf0-ba94-4447-95d9-213ca05b7c32" />
 
 
 | Serial Number | Roughness rating | Image number |
