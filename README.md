@@ -1,6 +1,6 @@
 # Surface-Roughness-Dataset
 
-| 序号 | 粗糙度等级 | 图片编号 |
+| Serial Number | Roughness rating | Image number |
 |:----:|:--------:|:-------:|
 |  class0   |     0-0.8    |   class0_x  |
 |  class1   |     0.8-1.6    |   class1_x  |
