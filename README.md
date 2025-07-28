@@ -8,7 +8,7 @@
 <img width="550" height="350" alt="b5eecfd6086719f211738f4bc09fe01" src="https://github.com/user-attachments/assets/f170eaf0-ba94-4447-95d9-213ca05b7c32" />
 
 ## 2. Experimental Setup
-```mermaid
+
 | Serial Number | Roughness rating | Image number |
 |:----:|:--------:|:-------:|
 |  class0   |     0-0.8    |   class0_x  |
